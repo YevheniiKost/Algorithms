@@ -13,11 +13,11 @@ public class AlgorithmsProgram
 
     private AlgorithmsProgram()
     {
-        int[] inputArray = { 12, 11, 13, 5, 6, 7 };
+        int[] inputArray = { 12, 11, 13, 5, 6, 7, 2, 1, 6, 19 };
         WriteLine("Input array: ");
         WriteArray(inputArray);
-        WriteLine("Sorting with HeapSort...");
-        HeapSort.Sort(inputArray);
+        WriteLine("Sorting with QuickSort...");
+        QuickSort.Sort(inputArray);
         WriteArray(inputArray);
     }
 
