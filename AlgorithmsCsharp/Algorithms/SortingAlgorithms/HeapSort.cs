@@ -1,9 +1,6 @@
-using System;
-using System.Collections.Generic;
-
-namespace Algorithms
+namespace Algorithms.SortingAlgorithms
 {
-    public static class HeapSort
+    public class HeapSort
     {
         public static void Sort(int[] inputArray)
         {

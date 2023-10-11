@@ -1,0 +1,14 @@
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\bin\Debug\net7.0\Algorithms.exe
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\bin\Debug\net7.0\Algorithms.deps.json
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\bin\Debug\net7.0\Algorithms.runtimeconfig.json
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\bin\Debug\net7.0\Algorithms.dll
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\bin\Debug\net7.0\Algorithms.pdb
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\Algorithms.AssemblyInfoInputs.cache
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\Algorithms.AssemblyInfo.cs
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\Algorithms.csproj.CoreCompileInputs.cache
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\Algorithms.dll
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\refint\Algorithms.dll
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\Algorithms.pdb
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\Algorithms.genruntimeconfig.cache
+G:\WorkingProjects\Algorithms\AlgorithmsCsharp\Algorithms\obj\Debug\net7.0\ref\Algorithms.dll

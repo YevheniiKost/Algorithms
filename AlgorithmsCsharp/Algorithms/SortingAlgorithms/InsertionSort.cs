@@ -1,7 +1,4 @@
-using System;
-using UnityEngine;
-
-namespace Algorithms
+namespace Algorithms.SortingAlgorithms
 {
     public static class InsertionSort 
     {

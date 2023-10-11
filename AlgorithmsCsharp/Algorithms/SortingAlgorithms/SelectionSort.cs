@@ -1,6 +1,4 @@
-using System;
-
-namespace Algorithms
+namespace Algorithms.SortingAlgorithms
 {
     public static class SelectionSort
     {
