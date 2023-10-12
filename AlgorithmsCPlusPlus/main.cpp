@@ -13,7 +13,7 @@ int main(){
     int size = sizeof(arr) / sizeof(arr[0]);
     std::cout << "Before sorting: " << std::endl;
     printArray(arr, size);
-    bubbleSort(arr, size);
+    insertionSort(arr, size);
     std::cout << "After sorting: " << std::endl;
     printArray(arr, size);
     return 0;
