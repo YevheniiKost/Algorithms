@@ -24,3 +24,18 @@ void insertionSort(int arr[], int size){
         arr[j + 1] = key;
     }
 }
+
+void selectionSort(int arr[], int size){
+    int i, j, min_idx;
+    for(i = 0; i < size - 1; i++){
+        min_idx = i;
+        for(j = i + 1; j < size; j++){
+            if(arr[j] < arr[min_idx]){
+                min_idx = j;
+            }
+        }
+        int temp = arr[min_idx];
+        arr[min_idx] = arr[i];
+        arr[i] = temp;
+    }
+}
