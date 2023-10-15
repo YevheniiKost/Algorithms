@@ -1,0 +1,5 @@
+G:\WorkingProjects\Algorithms\AlgorithmsTestin\AlgorithmsTestin\obj\Debug\net6.0\AlgorithmsTestin.csproj.AssemblyReference.cache
+G:\WorkingProjects\Algorithms\AlgorithmsTestin\AlgorithmsTestin\obj\Debug\net6.0\AlgorithmsTestin.GeneratedMSBuildEditorConfig.editorconfig
+G:\WorkingProjects\Algorithms\AlgorithmsTestin\AlgorithmsTestin\obj\Debug\net6.0\AlgorithmsTestin.AssemblyInfoInputs.cache
+G:\WorkingProjects\Algorithms\AlgorithmsTestin\AlgorithmsTestin\obj\Debug\net6.0\AlgorithmsTestin.AssemblyInfo.cs
+G:\WorkingProjects\Algorithms\AlgorithmsTestin\AlgorithmsTestin\obj\Debug\net6.0\AlgorithmsTestin.csproj.CoreCompileInputs.cache

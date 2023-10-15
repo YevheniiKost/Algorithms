@@ -1,5 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using Algorithms;
+﻿using Algorithms;
 
 AlgorithmsProgram.Run();
